@@ -1,1 +1,31 @@
 /* Add your own styles */
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    background-color:azure;
+}
+
+header{
+    color: white;
+    background-color:#2C5282;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align:center;
+    padding:20px;
+}
+
+#controls{
+    text-align:center;
+}
+
+footer{
+    text-align:center;
+    background-color:#2C5282;
+    color: white;
+    padding:20px;
+}
+
+#lookup{
+    color:azure;
+    background-color:#2C5282;
+}
