@@ -40,6 +40,13 @@ footer{
     height:40px;
 }
 
+#lookup-cty{
+    color:azure;
+    background-color:#2C5282;
+    width:100px;
+    height:40px;
+}
+
 #country{
     width: 275px;
     height: 40px;
